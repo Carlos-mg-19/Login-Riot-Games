@@ -63,3 +63,13 @@ section > div{
     padding-top: 5px ;
     margin-left: 25% ;
 }
+
+.entre{
+    padding-top:30px ;
+    margin-top: 50px;
+}
+
+.entre > a > img{
+    display: block;
+    margin: auto;
+}
